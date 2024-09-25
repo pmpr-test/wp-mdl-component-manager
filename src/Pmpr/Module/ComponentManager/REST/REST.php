@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f430fda8bb2             |
+    |             66f43b00a2f67             |
     |_______________________________________|
 */
  namespace Pmpr\Module\ComponentManager\REST; use Pmpr\Common\Foundation\REST\RESTRegister; class REST extends RESTRegister { public function gigwcakmiyayoigw() { $this->ogyceaekywowkqsc(Controller::symcgieuakksimmu()); } }
